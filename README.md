@@ -20,6 +20,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
