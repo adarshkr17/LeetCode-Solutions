@@ -7,6 +7,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0031-next-permutation](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,8 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0031-next-permutation](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->
