@@ -8,6 +8,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,12 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 <!---LeetCode Topics End-->
