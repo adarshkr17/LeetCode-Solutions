@@ -21,6 +21,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
