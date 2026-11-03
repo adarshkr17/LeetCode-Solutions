@@ -12,6 +12,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | [0029-divide-two-integers](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
