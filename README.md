@@ -8,6 +8,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0039-combination-sum](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -69,4 +70,8 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
