@@ -12,6 +12,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | [0088-merge-sorted-array](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Hash Table
@@ -57,6 +58,7 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,8 +72,13 @@ My solutions to LeetCode problems while following Striver A2Z DSA Sheet using C+
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshkr17/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
